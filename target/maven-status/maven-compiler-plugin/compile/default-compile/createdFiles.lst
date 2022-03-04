@@ -8,3 +8,5 @@ cocoli\introduction\service\TwitchException.class
 cocoli\introduction\entity\response\Game$1.class
 cocoli\introduction\entity\response\Game.class
 cocoli\introduction\entity\response\db\ItemType.class
+cocoli\introduction\controller\SearchController.class
+cocoli\introduction\service\GameService$1.class
