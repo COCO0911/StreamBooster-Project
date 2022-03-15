@@ -1,9 +1,11 @@
 cocoli\introduction\controller\GameController.class
 cocoli\introduction\service\FavoriteService.class
+cocoli\introduction\controller\RecommendationController.class
 cocoli\introduction\dao\LoginDao.class
 cocoli\introduction\ApplicationConfig.class
 cocoli\introduction\controller\FavoriteController.class
 cocoli\introduction\controller\RegisterController.class
+cocoli\introduction\service\RecommendationService.class
 cocoli\introduction\service\LoginService.class
 cocoli\introduction\service\GameService.class
 cocoli\introduction\entity\response\db\Item.class
@@ -17,6 +19,7 @@ cocoli\introduction\controller\LogoutController.class
 cocoli\introduction\dao\RegisterDao.class
 cocoli\introduction\dao\FavoriteDao.class
 cocoli\introduction\controller\SearchController.class
+cocoli\introduction\service\RecommendationException.class
 cocoli\introduction\util\Util.class
 cocoli\introduction\entity\response\Game$Builder.class
 cocoli\introduction\entity\response\request\FavoriteRequestBody.class
